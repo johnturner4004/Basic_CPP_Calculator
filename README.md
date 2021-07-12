@@ -1,4 +1,4 @@
-![REPO SIZE](https://img.shields.io/github/repo-size/johnturner4004/Basic_CPP_Calculator.svg?style=plastic) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/johnturner4004/Basic_CPP_Calculator.svg?style=plastic) ![LICENSE](https://img.shields.io/github/license/johnturner4004/Basic_CPP_Calculator?style=plastic) ![FORKS](https://img.shields.io/github/forks/johnturner4004/Basic_CPP_Calculator.svg?style=social)
+![REPO SIZE](https://img.shields.io/github/repo-size/johnturner4004/Basic_CPP_Calculator.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/johnturner4004/Basic_CPP_Calculator.svg?style=for-the-badge) ![LICENSE](https://img.shields.io/github/license/johnturner4004/Basic_CPP_Calculator?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/johnturner4004/Basic_CPP_Calculator.svg?style=for-the-badge&social)
 
 # Basic CPP Calculator
 
@@ -23,7 +23,7 @@ After installing the extension while VS Code, open the .cpp file and press <kbd>
 
 ## Built With
 
-![LANGUAGE](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+![LANGUAGE](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## License
 
