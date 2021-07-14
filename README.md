@@ -4,7 +4,7 @@
 
 ## Description
 
-This is just a very basic calculator app made using C++. This is just to practice applying variables, cin, cout, getline(cin, string), and some functions from cmath
+This is just a very basic calculator app made using C++. This is just to practice applying variables, cin, cout, getline(cin, string), and some functions from cmath. It accepts input from two numbers and prints the sum of those numbers.
 
 ### Prerequisites
 
@@ -20,10 +20,13 @@ After installing the extension while VS Code, open the .cpp file and press <kbd>
 1. Compile the source code using a C++ compiler (see above)
 2. Navigate to the folder containing the file in a terminal if you alreqdy are not there
 3. Type in the filename and press <kbd>return</kbd>
+4. Type in the first number and press <kbd>return</kbd>
+5. Type in the second number and press <kbd>return</kbd>
+6. The program will then print the sum of those two numbers in the terminal.
 
 ## Built With
 
-![LANGUAGE](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
 ## License
 
